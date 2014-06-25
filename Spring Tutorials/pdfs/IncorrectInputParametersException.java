@@ -4,7 +4,7 @@ package com.runner.architecture.util;
  * Exception thrown when there has been an error with util component's 
  * input parameters. 
  *
- * @author klaus.venesmaa
+ * @author keshavprasad.akasam
  *
  */
 public class IncorrectInputParametersException extends RuntimeException {
