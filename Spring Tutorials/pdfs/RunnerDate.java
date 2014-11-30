@@ -14,7 +14,8 @@ import java.util.regex.Pattern;
  * Contains following date operations - validation checks - conversion from string to date - conversion from date to
  * string
  *
- * @author klaus.venesmaa
+ * @author keshavprasad.akasam
+ * @version 2.0
  *
  */
 public class RunnerDate {
